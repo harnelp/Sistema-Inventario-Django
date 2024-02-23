@@ -99,7 +99,7 @@ Si deseas contribuir a este proyecto, por favor envía un Pull Request con tus m
 
 ## Autor
 
-- **Harnel Peña Peñaloza** - *Desarrollador inicial* - [harnelp](https://www.linkedin.com/in/harnel-peña/)
+- **Harnel Peña Peñaloza** - *Desarrollador inicial* - [linkedin](https://www.linkedin.com/in/harnel-peña/)
 
 ## Licencia
 
