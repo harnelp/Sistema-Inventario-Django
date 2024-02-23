@@ -1,0 +1,27 @@
+# Entorno virtual
+inventory_env
+
+# Archivos de byte compilados de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de paquetes
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Archivos de base de datos de PyCharm
+.idea/
+
+# Base de datos local de Django
+*.sqlite3
